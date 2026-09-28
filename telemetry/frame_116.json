@@ -1,0 +1,9 @@
+{
+  "frame_id": 116,
+  "pipeline": "edge-vision-telemetry",
+  "node": "LATAM-01",
+  "fps": 60.0,
+  "latency_ms": 13.200000000000001,
+  "timestamp": 1790602421.7689106,
+  "status": "synchronized"
+}
